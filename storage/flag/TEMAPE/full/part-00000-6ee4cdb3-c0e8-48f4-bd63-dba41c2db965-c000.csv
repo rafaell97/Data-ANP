@@ -1,0 +1,3 @@
+Regiao - Sigla,Estado - Sigla,Municipio,Revenda,CNPJ da Revenda,Nome da Rua,Numero Rua,Complemento,Bairro,Cep,Produto,Data da Coleta,Valor de Venda,Valor de Compra,Unidade de Medida,Bandeira,Data da Carga ETL
+NE,MA,BACABAL,G. J. SOUSA LACERDA & CIA LTDA,03.387.506/0001-93,PRACA SÃO JOSÉ,39,A,CENTRO,65700-000,GASOLINA,17/01/2023,5.01,,R$ / litro,TEMAPE,2023-11-21
+NE,MA,BACABAL,G. J. SOUSA LACERDA & CIA LTDA,03.387.506/0001-93,PRACA SÃO JOSÉ,39,A,CENTRO,65700-000,GASOLINA,25/01/2023,5.01,,R$ / litro,TEMAPE,2023-11-21
