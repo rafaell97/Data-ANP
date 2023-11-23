@@ -10,6 +10,7 @@ proporcionando uma solução eficiente para garantir dados consistentes e atuali
 - Extrair o arquivo disponibilizado no site da ANP.
 - Gerar arquivos segregados por: Região, estado, bandeira, produto e mês.
 - Todos os arquivos devem ter uma versão: agregada e aberta.
+- Os arquivos de versão agregada devem realizar o cálculo de preço médio dos combustíveis de acordo com o agrupamento.
 - Novo campo com a data da carga.
 
 ## Funcionalidades Principais
